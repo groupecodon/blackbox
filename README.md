@@ -1,9 +1,9 @@
-<p align="center"><a href="https://cod-on.tech" target="_blank"><img src="https://cod-on.tech/wp-content/uploads/2021/02/CONON_v01-01.png" width="400"></a></p>
+<p align="center"><a href="https://cod-on.tech" target="_blank"><img src="https://cod-on.tech/wp-content/uploads/2022/06/68747470733a2f2f636f642d6f6e2e746563682f77702d636f6e74656e742f75706c6f6164732f323032312f30322f434f4e4f4e5f7630312d30312e706e67-1.png" width="400"></a></p>
 
 
 ## À Propos de Black Box
 
-Black Box est un dépôt de fonctions utiles qui se répète dans les projets comme par exemple calculer la taille d'un écean de façon dynamique. Nous pensons que le développement doit être une expérience agréable et créative pour être vraiment satisfaisant. Black Box doit permettre  le développement moins pénible en facilitant la recherche de fonctions ou classes courantes utilisées dans de nombreux projets.
+Black Box est un dépôt de fonctions utiles qui peuvent répèter dans un projet comme par exemple calculer la taille d'un écean de façon dynamique. Nous pensons que le développement doit être une expérience agréable et créative pour être vraiment satisfaisant. Black Box doit permettre  le développement moins pénible en facilitant la recherche de fonctions ou classes courantes utilisées dans de nombreux projets.
 
 Black Box est accessible et fournit les éléments nécessaires à la réalisation de grandes applications/solutions robustes.
 
