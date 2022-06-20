@@ -29,10 +29,10 @@ Afin de garantir que la communauté Cod'On est accueillante pour tous, nous vous
 4. Merci de respecter ces quelques règles : Respecter toute personne dans ses valeurs et dans sa différence, Avoir une ouverture face aux autres, Éviter de s’autocritiquer, Éviter la critique négative et la contestation non constructive et répétitive, Faire preuve de courtoisie et de politesse dans nos gestes et nos paroles, envers les participants, Utiliser le « JE » lorsque je veux exprimer mon ressenti pour éviter de généraliser et aussi respecter les différences d’opinion de chacun.🙈 Chacune de ces actions entraîne une exclusion du groupe sans discussion préalable.
 5. Encore quelques règles à respecter pour le bien de la communauté : pas de contenu de mauvaise qualité (images ou propos  à caractères pornographiques ou autres.).
 
-## Security Vulnerabilities
+## Faille de Sécurité
 
 Si vous découvrez une faille de sécurité dans Black Box, veuillez envoyer un e-mail à Groupe Cod'On via [groupecodon241@gmail.com](mailto:groupecodon241@gmail.com). Toutes les vulnérabilités de sécurité seront rapidement traitées.
 
-## License
+## Licence
 
-Le framework Laravel est un logiciel à code source ouvert, sous licence de la [GNU V3 license](https://www.gnu.org/licenses/licenses.fr.html).
+Le projet Black Box est un projet Open Source, sous licence de la [GNU V3 license](https://www.gnu.org/licenses/licenses.fr.html).
